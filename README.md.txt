@@ -1,13 +1,11 @@
-# Check My Passh
 
-```text
   ____ _               _           __  __             ____               _     
  / ___| |__   ___  ___| | __      |  \/  |_   _      |  _ \ __ _ ___ ___| |__  
 | |   | '_ \ / _ \/ __| |/ /      | |\/| | | | |     | |_) / _` / __/ __| '_ \ 
 | |___| | | |  __/ (__|   <       | |  | | |_| |     |  __/ (_| \__ \__ \ | | |
  \____|_| |_|\___|\___|_|\_\      |_|  |_|\__, |     |_|   \__,_|___/___/_| |_|
                                           |___/                                 
-                                Password Defense Kit
+                                Password Defence Kit
 
 
 Check My Passh is a defensive utility built to audit password integrity through two lenses: mathematical entropy and known-breach correlation.
