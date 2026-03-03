@@ -7,7 +7,6 @@
                                           |___/                                 
                                 Password Defence Kit
 
-
 Check My Passh is a defensive utility built to audit password integrity through two lenses: mathematical entropy and known-breach correlation.
 
 
@@ -27,3 +26,16 @@ MD5: 128-bit / 32 characters (Legacy)
 SHA-1: 160-bit / 40 characters (Deprecated)
 SHA-256: 256-bit / 64 characters (Current standard)
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Set up and how to use:
+
+Ensure you have Python 3.8+ installed. No external libraries are required as the tool uses standard library modules (`hashlib`, `secrets`, `os`, `math`).
+
+Supply a wordlist:
+
+For privacy and storage reasons, this repository does not include a password database. To use the auditing and cracking features:
+* Create a file named `blacklist.txt` in the root directory.
+* Populate it with common passwords or a research wordlist (e.g., RockYou).
+
+Run it:
+You are now ready to run main.py 
