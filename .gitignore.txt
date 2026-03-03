@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+venv/
+.env
+blacklist.txt
+results.log
+.DS_Store
